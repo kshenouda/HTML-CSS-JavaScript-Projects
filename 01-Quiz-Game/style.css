@@ -32,7 +32,7 @@ body {
     text-align: center;
 }
 
-.screen-active {
+.screen.active {
     display: block;
     text-align: center;
 }
