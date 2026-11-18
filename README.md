@@ -4,4 +4,4 @@ This is a collection of projects built using HTML, CSS, and JavaScript. Inspired
 
 | Project Name | What It Does |
 |--------------|--------------|
-| Quiz Program | Users answer five trivia questions and are graded at the end by how many questions they get answer correctly |
+| Quiz Game | Users answer five trivia questions and are graded at the end by how many questions they get answer correctly |
